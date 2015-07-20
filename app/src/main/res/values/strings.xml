@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="title">Tip Calculator</string>
+
+    <string name="bill">Bill</string>
+    <string name="tip">Tip</string>
+    <string name="final_amount">Final amount</string>
+
+    <string name="bill_ed">0.0</string>
+    <string name="tip_ed">0.15</string>
+    <string name="final_amount_ed">0.0</string>
+
+    <string name="intro">Intro by waiter</string>
+    <string name="intro_friendly">Friendly</string>
+    <string name="intro_specials">Specials</string>
+    <string name="intro_opinions">Opinions</string>
+
+
+    <string name="availability">Availability of waiter</string>
+    <string name="availability_bad">Bad</string>
+    <string name="availability_okay">Okay</string>
+    <string name="availability_good">Good</string>
+
+    <string-array name="problem_array">Problem Solver>
+    <item name="problem_default">Waiter at problem solving</item>
+    <item name="problem_bad">Bad</item>
+    <item name="problem_okay">Okay</item>
+    <item name="problem_Good">Good</item>
+    </string-array>
+
+    <string name="extra_tip">Extra Tip %</string>
+
+    <string name="waiting_time">Time waiting for service</string>
+    <string name="time_init">0:00</string>
+    <string name="time_reset">Reset</string>
+    <string name="time_start">Start</string>
+    <string name="time_pause">pause</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
